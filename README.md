@@ -4,6 +4,7 @@
 
 ## Contents
 
+<<<<<<< HEAD
 This branch contains a certain category of add-ons from which our back-end script creates .zip files which are made available to each Kodi client.
 * Background services
 * Screensavers
@@ -46,6 +47,9 @@ This branch is used for add-ons that are coded for Kodi v17.0 Krypton builds and
 
 The contents of this repository mainly consist of add-on created by third party developers. Team Kodi holds no responsibility for it's contents.
 Team Kodi reserves the right to update or remove add-ons at any time as we deem necessary.
+=======
+This branch is not used for public. Please use one of the other branches available for submitting add-ons.
+>>>>>>> b8e312e1def163cb17ae0b287a0d80cf55a73ed4
 
 ## Quick Kodi development links
 
